@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=
+comment1.target=User()
+comment2.params=n\ p\ id\ a
+comment2.target=User(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getPass()
+comment5.params=
+comment5.target=java.lang.String\ getID()
+comment6.params=
+comment6.target=boolean\ getNotBorrowed()
+comment7.params=b
+comment7.target=void\ setNotBorrowed(boolean)
+comment8.params=a
+comment8.target=void\ setAge(int)
+comment9.params=
+comment9.target=int\ getAge()
+numComments=10
